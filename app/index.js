@@ -19,7 +19,7 @@ module.exports = generators.Base.extend({
   },
 
   install: function () {
-    // this.npmInstall();
+    this.npmInstall();
   },
 
   end: function () {
