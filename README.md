@@ -1,4 +1,4 @@
-# LEXXI Generator 1.0.0
+# LEXXI Generator 1.0.1
 
 Generator for [Yeoman](http://yeoman.io/) that installs v1.0.0 of the LEXXI development starter kit.
 
