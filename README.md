@@ -6,17 +6,17 @@ More information about LEXXI: [https://github.com/hxgf/lexxi](https://github.com
 
 ## Installation
 
-1. Install Yeoman *(if you haven't already)*
+1\. Install Yeoman *(if you haven't already)*
 ```bash
 npm install -g yo
 ```
 
-2. Install this generator
+2\. Install this generator
 ```bash
 npm install -g generator-lexxi
 ```
 
-3. Run this generator in your *(empty)* new project directory
+3\. Run this generator in your *(empty)* new project directory
 ```bash
 yo lexxi
 ```
