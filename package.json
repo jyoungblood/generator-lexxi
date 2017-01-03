@@ -1,0 +1,36 @@
+{
+  "name": "generator-lexxi",
+  "version": "1.0.0",
+  "description": "Starter kit for quickly developing web applications with Node/Express",
+  "main": "app/index.js",
+  "files": [
+    "app"
+  ],
+  "author": "HXGF <static@hexgirlfriend.com> (http://hexgirlfriend.com/)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hxgf/generator-lexxi/issues"
+    },
+    "homepage": "http://lexxi.hexgirlfriend.com",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hxgf/generator-lexxi.git"
+    },
+    "keywords": [
+      "yeoman-generator",
+      "boilerplate",
+      "web-framework",
+      "express",
+      "boilerplate",
+      "handlebars",
+      "mongoose",
+      "REST",
+      "API"
+    ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "copy-dir": "^0.3.0",
+    "yeoman-generator": "^0.24.1"
+  }
+}
